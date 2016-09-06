@@ -1,8 +1,17 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+Nick Baer
 2. Why are you interested in Data Science?
+I want to explore programming while also furthering my current career path in laboratory pharmaceuticals.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I do not have extensive programming experience. Most of my experience stems from the introduction to programming course I attended during undergrad. The rest of my experience is a result of dabling with various programs at work to improve analysis of raw laboratory data.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I attended an introduction to statistics course in undergrad and went on to tutor this course afterwards. On the job I use very basic statistics to compare and analyze the data that we generate in the lab.
 5.  Do you have other experience with R or Python?
+During my introduction to statistics course I was introduced briefly to R. I have not other experience with Python.
 6.  What do you hope to learn in this class?
+I really hope to obtain a general understanding of how to use both R and Python. This includes having the resources and know  how to continue learning once outside of the classs.
 7.  Is there anything else you would like to share with us?
+My own background involves some genetic research. I was very excited to here that both of your backgrounds involved some biological research. 
+I do feel like I'm lacking on some of the general knowledge starting this course, and I hope that I learn the basics quickly. 
+Thank you in advance for answering future questions!!
